@@ -1,10 +1,13 @@
-Attribute Information
+### Sentiment Analysis of Various Ride Sharing Applications Reviews: A Comparative Analysis Between Deep Learning and Machine Learning Algorithms
+
+
+# Attribute Information
 This study focuses on classifying 11 medicinal plant species native to Bangladesh using 2285 manually collected leaf images. The species include: Lemon Grass, Tulshi, Pathor Kuchi, Nayan Tara, Moringa, Henna Leaves, Aloe Vera, Horitoki, Indian Pennywort, Peppermint, and Bohera.
 
-Methodology
+# Methodology
 To identify the most effective model, several deep learning architectures were tested on the dataset. These included the proposed MediPlantNet, along with DenseNet201, VGG19, GoogLeNet, AlexNet, and ResNet50.
 
-Results
+# Results
 The models achieved the following accuracies:
 
 MediPlantNet: 99.84%
@@ -19,6 +22,6 @@ AlexNet: 95.78%
 
 ResNet50: 71.09%
 
-Conclusion
+# Conclusion
 MediPlantNet delivered the highest accuracy, proving to be the most effective model for medicinal plant classification. DenseNet201 and VGG19 also performed impressively, supporting the use of deep learning in promoting research and conservation efforts for medicinal plants.
 
